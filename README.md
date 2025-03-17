@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khushil-21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=true" height="195" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashvi2401&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=true" height="195" alt="top languages" />
   <br/>
   <picture>
-    <source srcset="https://streak-stats.demolab.com?user=Khushil-21&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=10&date_format=j M[ Y]" type="image/svg+xml">
-    <img src="https://streak-stats.demolab.com?user=Khushil-21&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=10&date_format=j M[ Y]" height="200" alt="streak graph" />
+    <source srcset="https://streak-stats.demolab.com?user=yashvi2401&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=10&date_format=j M[ Y]" type="image/svg+xml">
+    <img src="https://streak-stats.demolab.com?user=yashvi2401&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=10&date_format=j M[ Y]" height="200" alt="streak graph" />
   </picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=Khushil-21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&hide_border=true&border_radius=10" height="195" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashvi2401&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&hide_border=true&border_radius=10" height="195" alt="github stats" />
 </div>
 <!--
 **Yashvi2401/Yashvi2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
